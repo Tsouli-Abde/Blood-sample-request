@@ -1,0 +1,34 @@
+@import url(AjouterStyle.css);
+
+input[type="button"]
+{
+    width: 15%;
+    transition: 1s;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 10px;
+    padding: 10px 0 8px;
+    color: rgba(0, 30, 30, 0.8);
+    background: rgb(124, 206, 206);
+    border: 1px solid rgb(124, 206, 206);
+    box-shadow: 5px 5px 10px rgb(0, 65, 65);
+}
+input[type="button"]:hover
+{
+    background: rgb(52, 180, 180);
+    border: 1px solid rgb(52, 180, 180);
+    box-shadow: 5px 5px 10px rgb(0, 65, 65);
+}
+#modifier
+{
+    margin: 10% 2% 5% 60%;
+}
+.modifier
+{
+    margin-left: 80% !important;
+}
+.content a
+{
+    text-decoration: none;
+}

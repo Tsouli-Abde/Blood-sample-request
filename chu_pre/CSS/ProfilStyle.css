@@ -1,0 +1,25 @@
+@import url(VoirStyle.css);
+
+.labels
+{
+    width: 30% !important;
+    padding-left: 1%;
+    margin-bottom: 1%;
+}
+.inputs
+{
+    width: 60% !important;
+    background: transparent;
+    border: none !important;
+    box-shadow: 1px 1px 4px rgb(0, 100, 100);
+    border-right: 1px solid rgb(0, 80, 100) !important;
+    border-bottom: 1px solid rgb(0, 80, 100) !important;
+}
+#Retour
+{
+    margin: 10% 2% 5% 60%;
+}
+.Retour
+{
+    margin-left: 80% !important;
+}
